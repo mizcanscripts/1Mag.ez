@@ -14,7 +14,7 @@ end
 local GameRegistry = {
     [17625359962] = {
         Name = "Rivals",
-        Url = "https://example.com",
+        Url = "https://raw.githubusercontent.com/mizcanscripts/1Mag.ez/refs/heads/main/src/Rivals/1mag%2520fixedcrimson.lua.obfuscated.lua.txt",
         UseUniverseId = false
     }
 }
