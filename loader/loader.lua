@@ -1,12 +1,4 @@
 -- 1Mag.ez
-if getgenv and getgenv().LoaderExecuted then
-    warn("[1Mag.ez] Script is already running.")
-    return
-end
-if getgenv then
-    getgenv().LoaderExecuted = true
-end
-
 if not game:IsLoaded() then
     game.Loaded:Wait()
 end
