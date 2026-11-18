@@ -1,8 +1,4 @@
 -- 1Mag.ez
-if not game:IsLoaded() then
-    game.Loaded:Wait()
-end
-
 print("[1Mag.ez] booted")
 print("[1Mag.ez] PlaceId = " .. tostring(game.PlaceId) .. "  GameId (universe) = " .. tostring(game.GameId))
 
