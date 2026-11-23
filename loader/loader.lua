@@ -19,7 +19,7 @@ getgenv().__1MAG_BOOTED = true
 local GameRegistry = {
     [17625359962] = {
         Name          = "Rivals",
-        Url           = "https://raw.githubusercontent.com/mizcanscripts/1Mag.ez/refs/heads/main/src/Rivals/1mag%2520fixedcrimson.lua.obfuscated.lua.txt",
+        Url           = "https://api.jnkie.com/api/v1/luascripts/public/0598fe85aebe3417c0a2b26d2888153f47c073c97a3cc404a6fbc357ef64e2b0/download",
         UseUniverseId = true,
     },
 }
