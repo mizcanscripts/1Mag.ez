@@ -17,7 +17,7 @@ end
 getgenv().__1MAG_BOOTED = true
 
 local GameRegistry = {
-    [17625359962] = {
+    [6035872082] = {
         Name          = "Rivals",
         Url           = "https://api.jnkie.com/api/v1/luascripts/public/0598fe85aebe3417c0a2b26d2888153f47c073c97a3cc404a6fbc357ef64e2b0/download",
         UseUniverseId = true,
